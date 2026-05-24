@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+youtube-transcript-api
+nltk
+sumy
+scikit-learn
+numpy
